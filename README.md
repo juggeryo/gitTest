@@ -24,3 +24,4 @@ add2
 2server commit --
 1server commit -t
 1server commit 2
+1server commit 3
