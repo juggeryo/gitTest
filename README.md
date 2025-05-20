@@ -7,3 +7,6 @@ gitTest
 add1
 
 diff
+
+
+1server commit -t
